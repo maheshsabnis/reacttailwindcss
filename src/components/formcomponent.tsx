@@ -20,7 +20,8 @@ export function Form() {
         placeholder="Message"
       />
 
-      <button className="w-full py-2 bg-indigo-600 text-white rounded-lg shadowshadow-[0_4px_10px_rgba(255,0,0,0.4)]">
+      <button className="w-full py-2 bg-indigo-600 text-white rounded-lg shadowshadow-[0_4px_10px_rgba(255,0,0,0.4)]
+      ">
         Submit
       </button>
       {/* <Card/>
